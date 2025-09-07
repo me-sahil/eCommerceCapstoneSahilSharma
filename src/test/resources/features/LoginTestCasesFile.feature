@@ -4,13 +4,13 @@ Feature: Login Page Test Cases
   @Positive
   Scenario: Login with valid email and password
     Given I launch the application
-    When I enter email "ysappofficial@gmail.com" and password "okayButWhy#28"
+    When I enter email "enteryouemailhere" and password "enteryoupasshere"
     And I click on login button
     Then I should be logged in successfully
   
   @Positive
   Scenario: Verify session persistence while browsing
-    Given I am logged in with email "ysappofficial@gmail.com" and password "okayButWhy#28"
+    Given I am logged in with email "enteryouremailhere" and password "enteryoupasshere"
     When I navigate to "Electronics" category
     Then My session should remain active
 
@@ -30,3 +30,4 @@ Feature: Login Page Test Cases
  
 
  
+
