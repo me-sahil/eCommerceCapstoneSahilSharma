@@ -1,0 +1,6 @@
+2025-09-07 15:38:38 INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2025-09-07 15:38:38 INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\Amazon_Capstone_Project\testng.xml
+
+2025-09-07 15:38:39 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 140.0.7339.80 (resolved driver for Chrome 140)
+2025-09-07 15:38:39 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sahil\.cache\selenium\chromedriver\win64\140.0.7339.80\chromedriver.exe
